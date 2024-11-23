@@ -1,3 +1,0 @@
-# The message that will be sent to players when they join.
-# Use %player% to insert the player's name.
-welcome-message: "\u00a7bWelcome to the server, %player%!"
